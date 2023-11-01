@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
     loginForm.addEventListener("submit", function (event) {
       event.preventDefault();
-  
+
       const emailInput = document.getElementById("email-login").value;
       const passwordInput = document.getElementById("password-login").value;
   
