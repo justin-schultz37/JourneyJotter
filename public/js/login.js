@@ -52,5 +52,5 @@ document.addEventListener("DOMContentLoaded", function () {
         alert("Invalid login credentials. Please try again.");
       }
     });
-  });
+  }); 
   
